@@ -45,3 +45,8 @@ _Response body (3 fields):_
     { "key": "tos", "label": "Accept Terms", "type": "checkbox", "required": true }
   ]
 }
+
+### 2) Run the Angular App
+bash
+npm install
+npm start
