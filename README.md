@@ -47,6 +47,7 @@ _Response body (3 fields):_
 }
 
 ### 2) Run the Angular App
-bash
+```sh
 npm install
 npm start
+```
